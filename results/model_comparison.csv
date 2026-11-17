@@ -1,0 +1,4 @@
+Model,Mean ROC-AUC,Mean F1-Score
+Logistic Regression,0.8455,0.5938
+Random Forest,0.8277,0.6101
+Dummy Classifier,0.5,0.0
